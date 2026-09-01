@@ -1,5 +1,5 @@
 # Write-up: InvataCyber.ro - Blind SQL Injection
-*[English version →](README.md)*
+*[English version →](README.eng.md)*
 
 ## Prezentarea provocării
 Aplicația `InvataCyber.ro` utilizează un cookie `TrackingId` pentru a urmări sesiunile utilizatorilor. Când serverul recunoaște un identificator valid, returnează șirul de confirmare: `>> [OK] Valid tracking signature detected.`
