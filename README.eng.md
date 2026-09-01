@@ -1,5 +1,7 @@
 # Write-up: InvataCyber.ro - Blind SQL Injection
 *[Versiunea în limba română →](README.md)*
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/de8441ab-a5d8-4b34-a727-10e3972d5c51" />
+
 ## Challenge Overview
 The `InvataCyber.ro` application uses a `TrackingId` cookie to track user sessions. When the server recognizes a valid tracking ID, it returns the confirmation string: `>> [OK] Valid tracking signature detected.`
 
