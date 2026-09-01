@@ -2,7 +2,7 @@
 *[English version →](README.eng.md)*
 <img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/9e0e0d4e-8fad-48b2-bd36-57b6f27ebebb" />
 
-## Prezentarea provocării
+## Prezentarea challange-ului:
 Aplicația `InvataCyber.ro` utilizează un cookie `TrackingId` pentru a urmări sesiunile utilizatorilor. Când serverul recunoaște un identificator valid, returnează șirul de confirmare: `>> [OK] Valid tracking signature detected.`
 
 Valoarea cookie-ului `TrackingId` este concatenată direct într-o interogare SQL internă, fără parametrizare sau sanitizare. Acest lucru introduce o vulnerabilitate de tip boolean-based blind SQL injection, permițând extragerea conținutului bazei de date (inclusiv a credențialelor de `administrator`) și autentificarea printr-o pagină de login ascunsă pentru obținerea flag-ului.
