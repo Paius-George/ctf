@@ -16,7 +16,7 @@ InvataCyber{...}
 | Challenge | Category | Difficulty | Summary |
 | --- | --- | --- | --- |
 | [Blind-Sql](./Blind-Sql) | Web Security | Medium | Boolean-based blind SQL injection via session cookie. |
-| [Cryptography : Password Cracking](./Cryptography%20:%20Password%20Cracking) | Cryptography | Easy-Medium | MD5 hash recovery and byte-level Repeating-Key XOR decryption. |
+| [Cryptography & Password Cracking](./Cryptography%20:%20Password%20Cracking) | Cryptography | Easy-Medium | MD5 hash recovery and byte-level Repeating-Key XOR decryption. |
 
 ---
 
