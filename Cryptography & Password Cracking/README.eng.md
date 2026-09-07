@@ -1,4 +1,5 @@
 # Manual Walkthrough: Operation HashXOR
+*[Versiunea în limba română →](README.md)*
 
 - **Platform:** InvataCyber.ro
 - **Category:** Cryptography / Password Cracking
