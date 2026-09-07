@@ -1,6 +1,7 @@
 # Provocări CTF — InvataCyber.ro
 
 *[English version →](README.eng.md)*
+<img width="3168" height="1344" alt="image" src="https://github.com/user-attachments/assets/bc4dfba1-e2c8-4333-9855-4afbc55795b3" />
 
 Acest depozit conține provocările practice create pentru platforma [InvataCyber.ro](https://invatacyber.ro). Fiecare director include fișierele de laborator, scenariul de lucru și un ghid pas cu pas de rezolvare.
 
