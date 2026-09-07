@@ -16,7 +16,7 @@ InvataCyber{...}
 | Provocare | Categorie | Dificultate | Descriere pe scurt |
 | --- | --- | --- | --- |
 | [Blind-Sql](./Blind-Sql) | Web Security | Mediu | Injecție SQL oarbă bazată pe răspunsuri booleene într-un cookie de sesiune. |
-| [Cryptography : Password Cracking](./Cryptography%20:%20Password%20Cracking) | Criptografie | Ușor-Mediu | Spargerea hash-urilor MD5 și decriptarea unui mesaj cu Repeating-Key XOR. |
+| [Cryptography & Password Cracking](./Cryptography%20:%20Password%20Cracking) | Criptografie | Ușor-Mediu | Spargerea hash-urilor MD5 și decriptarea unui mesaj cu Repeating-Key XOR. |
 
 ---
 
