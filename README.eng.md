@@ -30,13 +30,3 @@ Each challenge operates as a self-contained directory:
 - **Lab files**: Databases, encrypted messages, or generator scripts.
 
 ---
-
-## Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<username>/<repo>.git
-   cd <repo>
-   ```
-2. Navigate to the desired challenge directory.
-3. Review the provided materials and attempt to find the flag before reading the walkthrough.
