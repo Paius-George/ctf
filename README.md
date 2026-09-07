@@ -30,13 +30,3 @@ Fiecare director este gândit să funcționeze de sine stătător:
 - **Fișiere de lucru**: Baze de date demonstrative, fișiere criptate sau scripturi de generare.
 
 ---
-
-## Cum începi
-
-1. Clonează depozitul:
-   ```bash
-   git clone https://github.com/<utilizator>/<repo>.git
-   cd <repo>
-   ```
-2. Deschide directorul provocării dorite.
-3. Analizează fișierele primite și încearcă să extragi flag-ul înainte de a consulta rezolvarea.
