@@ -1,5 +1,6 @@
 # Rezolvare manuală: Operațiunea HashXOR
 *[English version →](README.eng.md)*
+<img width="2752" height="1536" alt="image" src="https://github.com/user-attachments/assets/f69afa85-e16e-47a1-987d-6a2dfdbcea04" />
 
 - **Platformă:** InvataCyber.ro
 - **Categorie:** Cryptography / Password Cracking
