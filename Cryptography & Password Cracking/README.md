@@ -1,4 +1,5 @@
 # Rezolvare manuală: Operațiunea HashXOR
+*[English version →](README.eng.md)*
 
 - **Platformă:** InvataCyber.ro
 - **Categorie:** Cryptography / Password Cracking
