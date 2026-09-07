@@ -1,6 +1,7 @@
 # CTF Challenges — InvataCyber.ro
 
 *[Versiunea în română →](README.md)*
+<img width="3168" height="1344" alt="image" src="https://github.com/user-attachments/assets/1def22ce-9168-4db7-87d6-81cd28f95bdc" />
 
 This repository contains practical security challenges developed for the [InvataCyber.ro](https://invatacyber.ro) educational platform. Each folder includes the challenge materials, a problem description, and a step-by-step write-up.
 
